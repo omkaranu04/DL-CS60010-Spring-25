@@ -1,0 +1,11 @@
+*.zip
+*.drawio
+*.pth
+data/
+.conda/
+Dataset/
+team_id_2_project/
+Assignments_Omkar_22CS30016/
+.vscode/
+Results/
+*.pyc

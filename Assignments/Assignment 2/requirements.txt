@@ -1,0 +1,14 @@
+torch
+transformers
+Pillow
+pandas
+numpy
+tqdm
+nltk
+rouge_score
+torchvision
+evaluate
+nltk
+Pillow
+scikit-learn
+bert_score
